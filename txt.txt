@@ -1,3 +1,4 @@
 aboba1
 aboba2
 aboba3
+clone aboba
